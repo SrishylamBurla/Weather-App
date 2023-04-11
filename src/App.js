@@ -41,7 +41,7 @@ function App() {
   return (
     <div className="col-md-12">
       <div className="weatherBg">
-     <h1>Weather App</h1>
+     <h1>Weather Report</h1>
 
      <div className='d-grid gap-3 col-4 mt-4'>
 
